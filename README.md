@@ -1,1 +1,1 @@
-# arrays_and_multidimensional_arrays
+# JS Arrays and Multidimensional Arrays Tutorial
